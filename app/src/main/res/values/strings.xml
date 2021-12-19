@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="title_task">Task</string>
+    <string name="title_add">Add</string>
+    <string name="title_setting">Setting</string>
+    <string name="username">Hallo, Sam!</string>
+    <string name="task_left">2 Task for Today</string>
+    <string name="date_now">Sun, Sept 14 2020</string>
+    <string name="day">S</string>
+    <string name="date_task_info">15</string>
+    <string name="time">09.00</string>
+    <string name="tittle_task">Tittle Task</string>
+    <string name="time_task_detail">09.00-10.00</string>
+    <string name="complete">Complete</string>
+    <string name="task_list">Task List</string>
+    <string name="tittle">Tittle</string>
+    <string name="description">Description</string>
+    <string name="tittle_time">Time</string>
+    <string name="date">Date</string>
+    <string name="submit">Submit</string>
+    <string name="cooming_soon">Cooming Soon</string>
+    <string name="todo_application">ToDo Application</string>
+    <string name="login_with">Login With</string>
+    <string name="google">Google</string>
+
+</resources>
